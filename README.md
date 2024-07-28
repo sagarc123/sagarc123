@@ -1,52 +1,65 @@
-# Welcome to Atharva's GitHub Profile 👋
+# Welcome to Sagar's GitHub Profile 👋
 
 
 ## About Me ℹ️
 
-- 🔭 I’m currently pursuing B Tech in CSE(AIML)
-- 🌱 I’m currently working as President @ACADS, CSE(AIML & DS) Department, Kit's College of Engineering
-- ⚡ Additionally, I create educational content on engineering, reaching over 100k followers on [Instagram](https://instagram.com/kaabil.engineer)
+- 🔭 👋 Hello! I'm Sagar Chavan, a passionate software developer and AI enthusiast currently pursuing a degree in Artificial Intelligence and Data Science.
+- ⚡ I have a strong foundation in both theoretical and practical aspects of computer science.
 
 ## Projects 🚀
 
-### CVMap.Ai
-- Description: Developed a website and added ML model which generate the questions based on the uploaded document. Resume builder is also one of the features.
-- Technology Stack: Python, Artificial Neural Networks, Flask, Fast API, HTML, CSS, JavaScript, NLP
+### Recipe Recommendation System
+- Description: An AI-driven web application that provides personalized recipe suggestions based on user-provided ingredients, simplifying meal planning and encouraging culinary exploration.
+- Responsibilities:
+    - Designed the user interface for easy ingredient input and recipe display.
+    - Implemented AI models for ingredient analysis and recommendation generation.
+    - Integrated a database to store recipes and user data.
+- Technology Stack: HTML, CSS, JavaScript, PHP, MySQL, NLP, RCNN, YOLO
 
-### Chikitsak.AI
-- Description: Created and launched an AI-powered mobile app featuring a cutting-edge chatbot, enabling users to input health information and receive personalized home remedy and medicine recommendations. Contributed about 70% development of the project.
-- Technology Stack: Flutter, Dart, Bard API, NLP
+### Doctor Appointment System
+- Description: An innovative Android application designed to streamline the appointment scheduling process for doctors and patients, enhancing efficiency in healthcare management.
+- Responsibilities:
+    - Developed a user-friendly interface for seamless navigation.
+    - Integrated Firebase for real-time updates and notifications.
+    - Implemented secure data handling protocols to protect user information.
+- Technology Stack: Android Studio, Firebase, Java
 
-### Chat Application and Attendance System
-- Description: Made a website for group chatting and marking attendance in school classrooms. Contributed about 80% development of the project.
-- Technology Stack: Python, Flask, HTML, CSS, Node.js, Socket.io, MySQL.
 
-### AMACA
-- Description: Implemented a Virtual Assistant which have full control over your device. It can play any songs or do as you assist it. It can also have control of your room's lights. Contributed in increasing the speed and accuracy of the assistant with 70% development of project.
-- Technology Stack: Python, Custom tkinter, Tkinter, pyttx3, Speech Recognition, pywinauto
-
-### GPA Calculator
-- Description: Created a single-page website for my college students, facilitating easy calculation of SGPA and CGPA, eliminating manual calculations entirely.
-- URL: [CGPA/SGPA Calculator](https://kaabilengineer.github.io)
-- Technology Stack: HTML, CSS, JavaScript, GitHub
-
+### Quiz Application using Android Studio
+- Description: An engaging Android application that allows users to take quizzes on various topics, providing instant feedback and performance analysis.
+- Responsibilities:
+    - Developed an intuitive and interactive user interface.
+    - Implemented Firebase for real-time data synchronization and user authentication.
+    - Created a back-end system to manage quiz questions, track user progress, and generate performance reports.
+- Technology Stack:  Android Studio, Firebase, Java
 ...
 
 ## Skills & Technologies 🛠️
 
-- Programming Languages: Python, Java, C
-- Tools & Technologies: HTML, CSS, Machine Learning, Artificial Neural Networks, JavaScript, Node.js, MySQL, Power BI, Figma, Canva, Git, AWS, AIML, UI/UX Design
+- Programming Languages: Python, Java, C++
+- Web Development: HTML, CSS(Bootstrap), JavaScript, PHP
+- Mobile Development: Android Studio, Firebase
+- Databases: SQl, MySQL
+- Artificial Intelligence & Machine Learning: Natural Language Processing (NLP), Region-based Convolutional Neural Networks (RCNN), You Only Look Once (YOLO)
 
-## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaabilengineer&show_icons=true&theme=radical)
+## Core Competencies 🎯
+- Software Development
+- Mobile Application Development
+- Web Development
+- Database Management
+- Artificial Intelligence
+- User Interface Design
+- Project Management
+- Problem Solving
+- Continuous Learning
 
 ## Connect with Me 🤝
 
 Feel free to reach out to me through the following channels:
 
-- [Email](kaabilengineer2003@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/iamatharvapatil)
-- [Portfolio Website/Blog](https://kaabilengineer.github.io/portfolio/)
+- [Email](sagarchavan142003@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sagar-chavan-a6937b194)
+
 
 Let's collaborate and build amazing things together! 😊
