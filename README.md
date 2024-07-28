@@ -58,7 +58,7 @@
 
 Feel free to reach out to me through the following channels:
 
-- [Email](mailto:sagarchavan142003@gmail.com)
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=sagarchavan142003@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sagar-chavan-a6937b194)
 
 
