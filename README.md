@@ -1,66 +1,78 @@
-# Welcome to Sagar's GitHub Profile 👋
-
+# 👋 Welcome to Sagar's GitHub Profile
 
 ## About Me ℹ️
 
-- 🔭 👋 Hello! I'm Sagar Chavan, a passionate software developer and AI enthusiast currently pursuing a degree in Artificial Intelligence and Data Science.
-- ⚡ I have a strong foundation in both theoretical and practical aspects of computer science.
+Hi! I'm **Sagar Chavan**, a passionate **Data Analyst, AI Enthusiast**, and **Software Developer**, completed Bachelor's degree in **Artificial Intelligence and Data Science**.
 
-## Projects 🚀
+With a solid foundation in **data analysis**, **visualization**, and **machine learning**, I thrive on turning raw data into actionable insights and building intelligent, user-centric applications.
+
+---
+
+## 📊 Data Analytics & Dashboards
+
+### ⚡ Electricity Consumption Dashboard (India)
+- **Description**: A modern, interactive dashboard visualizing electricity consumption across Indian states and regions over time.
+- **WORKING**
+
+### ☕ Coffee Sales Dashboard (Tableau)
+- **Description**: An interactive dashboard visualizing coffee sales, trends, and insights over time.  
+- **Live Preview**: [View Coffee Dashboard](https://public.tableau.com/app/profile/sagar.chavan6701/viz/CoffeeDashboard_17588970043370/Dashboard2)  
+
+### 📈 Sales Performance Dashboard (Mock Retail Data)
+- **Description**: Visual analytics dashboard for sales trends, region‑wise analysis, and product category insights.  
+- **Live Preview**: [Streamlit]([https://app.powerbi.com/your-link](https://sales-data-dashboard-t92iuysbqy4xxdjsleegje.streamlit.app/))
+- **GitHub**: [Repo Link](https://github.com/your-repo/sales-dashboard)
+
+---
+
+## 🚀 Selected Projects
 
 ### Recipe Recommendation System
-- Description: An AI-driven web application that provides personalized recipe suggestions based on user-provided ingredients, simplifying meal planning and encouraging culinary exploration.
-- Responsibilities:
-    - Designed the user interface for easy ingredient input and recipe display.
-    - Implemented AI models for ingredient analysis and recommendation generation.
-    - Integrated a database to store recipes and user data.
-- Technology Stack: HTML, CSS, JavaScript, PHP, MySQL, NLP, RCNN, YOLO
+- AI web app recommending recipes based on user-input ingredients using NLP and object detection (YOLO).
+- **Stack**: HTML, CSS, JS, PHP, MySQL, NLP, RCNN, YOLO
 
-### Doctor Appointment System
-- Description: An innovative Android application designed to streamline the appointment scheduling process for doctors and patients, enhancing efficiency in healthcare management.
-- Responsibilities:
-    - Developed a user-friendly interface for seamless navigation.
-    - Integrated Firebase for real-time updates and notifications.
-    - Implemented secure data handling protocols to protect user information.
-- Technology Stack: Android Studio, Firebase, Java
+### Doctor Appointment Android App
+- Appointment scheduling app with real-time updates using Firebase.
+- **Stack**: Android Studio, Java, Firebase
 
+### Quiz App with Real-Time Feedback
+- Interactive quiz platform with score tracking and analysis.
+- **Stack**: Android Studio, Java, Firebase
 
-### Quiz Application using Android Studio
-- Description: An engaging Android application that allows users to take quizzes on various topics, providing instant feedback and performance analysis.
-- Responsibilities:
-    - Developed an intuitive and interactive user interface.
-    - Implemented Firebase for real-time data synchronization and user authentication.
-    - Created a back-end system to manage quiz questions, track user progress, and generate performance reports.
-- Technology Stack:  Android Studio, Firebase, Java
-...
+---
 
-## Skills & Technologies 🛠️
+## 💡 Skills & Technologies
 
-- Programming Languages: Python, Java, C++
-- Web Development: HTML, CSS(Bootstrap), JavaScript, PHP
-- Mobile Development: Android Studio, Firebase
-- Databases: SQl, MySQL
-- Artificial Intelligence & Machine Learning: Natural Language Processing (NLP), Region-based Convolutional Neural Networks (RCNN), You Only Look Once (YOLO)
+**Languages:** Python, SQL, Java, C++  
+**Analytics & ML:** Pandas, NumPy, Matplotlib, Scikit-Learn, NLP  
+**BI Tools:** Power BI, Tableau  
+**Web:** HTML, CSS (Bootstrap), JS, PHP  
+**Mobile Dev:** Android Studio, Firebase  
+**Databases:** MySQL, SQL  
+**Other:** Git, Jupyter Notebooks, Dash, Streamlit
 
+---
 
-## Core Competencies 🎯
-- Software Development
-- Mobile Application Development
-- Web Development
-- Database Management
-- Artificial Intelligence
-- User Interface Design
-- Project Management
-- Problem Solving
-- Continuous Learning
+## 🎯 Core Competencies
 
-## Connect with Me 🤝
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & AI  
+- 🛠️ Dashboard Development (Dash / Power BI / Tableau)  
+- 💻 Software & Mobile App Development  
+- 🧠 Problem Solving & Logical Thinking  
+- 🌐 Web Development  
+- 🔄 Continuous Learning  
 
-Feel free to reach out to me through the following channels:
+---
 
-- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=sagarchavan142003@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/sagar-chavan-a6937b194)
-- [Portfolio](https://portfolio-kappa-five-63.vercel.app/)
+## 🤝 Let's Connect
+
+- 📧 [Email](mailto:sagarchavan142003@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sagar-chavan-a6937b194)
+- 🌐 [Portfolio Website](https://portfolio-kappa-five-63.vercel.app/)
 
 
-Let's collaborate and build amazing things together! 😊
+---
+
+🚀 *Let’s collaborate on data-driven solutions, innovative projects, and intelligent products!*
+
