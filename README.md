@@ -10,9 +10,10 @@ With a solid foundation in **data analysis**, **visualization**, and **machine l
 
 ## 📊 Data Analytics & Dashboards
 
-### ⚡ Electricity Consumption Dashboard (India)
-- **Description**: A modern, interactive dashboard visualizing electricity consumption across Indian states and regions over time.
-- **WORKING**
+### ⚡ Stock Market Analytics Dashboard (Python/FastAPI/Dash)
+- **Description**: End-to-end financial analytics platform. Implemented an automated Pandas/SQLite ETL pipeline and a high-performance FastAPI backend to serve key financial metrics and sector summaries. Delivered insights via an interactive Plotly Dash dashboard with dynamic charts for deep market and valuation analysis.
+- **Live Preview**: [Streamlit](https://stock-market-analytics-dashboard-urqrm7zcvsxrwnykgj7e5q.streamlit.app/)
+- **GitHub**: [Repo Link](https://github.com/sagarc123/Stock-Market-Analytics-Dashboard)
 
 ### ☕ Coffee Sales Dashboard (Tableau)
 - **Description**: An interactive dashboard visualizing coffee sales, trends, and insights over time.  
